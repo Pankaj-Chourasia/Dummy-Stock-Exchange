@@ -37,7 +37,7 @@ public:
 
     bool isValidSymbol(const string &symbol)
     {
-        // Add your validation logic here (e.g., checking against a list of valid symbols)
+        // Add validation logic here (e.g., checking against a list of valid symbols)
         return true; // For simplicity, assuming all symbols are valid for now
     }
 
